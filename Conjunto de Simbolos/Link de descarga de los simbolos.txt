@@ -1,0 +1,3 @@
+Archivo para descargar que contiene los simbolos:
+
+https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
