@@ -1,4 +1,4 @@
-# 🧮 AI Calculadora - Reconocimiento de Símbolos Matemáticos
+# 🧮 AI - Reconocimiento de Símbolos Matemáticos
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
